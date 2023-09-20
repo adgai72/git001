@@ -2,3 +2,4 @@
 添加到暂存区 add
 显示状态 status
 提交  commit
+文件的比对第一次
